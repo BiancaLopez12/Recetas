@@ -1,2 +1,2 @@
 # Recetas
-Repositor de recetas para practicar git
+Repositor de Recetas para practicar.
